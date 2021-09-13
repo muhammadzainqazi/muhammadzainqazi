@@ -1,10 +1,10 @@
-<h1 align="center">Welcome 👋,</h1>
+<h1 align="center">Welcome 👋, I'm Muhammad Zain Qazi</h1>
 
 <img src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
 Software Engineer with proven abilities of developing an efficient, reliable, portable and maintainable software. Seeking for a position as a Software Engineer at Software companies to pace up the development of UIs with innovative ideas.
 
-## <img alt="Skills" src="https://img.shields.io/badge/ 📚 skills-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" />
+## <img alt="Skills" src="https://img.shields.io/badge/ 📚 skills-black.svg?&style=for-the-badge&logo=Skills&logoColor=white" />
 
 <div>
 <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" /> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".Net" /> <img src= "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt= "Java" /> <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" /> <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#" />
@@ -39,7 +39,7 @@ an estimated cost to the end use
 
 **Project Name:** Data Analysis Live projects
 
-## **Description:**
+**Description:**
 
 - Adventure Data
 - Corona Feasibilty Data
