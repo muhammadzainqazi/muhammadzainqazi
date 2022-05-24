@@ -24,6 +24,12 @@ Data Engineer with proven abilities of developing an efficient, reliable, portab
 ## <img src="https://img.shields.io/badge/💼 work experience-black.svg?&style=for-the-badge&logo=workexperience&logoColor=white" alt="Work Experience" />
 
 - Working with national and multinational companies on various ETL and Business Intelligence solutions.
+- Trainee at Dice Analytics(20/11/2020-25/2/2021):
+- Worked at Dice on ETL and BI tools with SQL and power BI
+- MTO(Business Intelligence) at Metro Shoes (25/09/2021-28/2/2022):
+- Worked on SSIS ETL tool and SSRS and SSAS and power BI on BI solution
+- Junior BI developer at MTBC-CARECLOUD (2/03/2022-currently Working):
+- Working on SSIS and Power BI for effective Pipelines for data transformation and extraction.
 
 ---
 
