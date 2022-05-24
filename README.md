@@ -2,7 +2,7 @@
 
 <img src="https://img.shields.io/badge/🧑 about Me-black.svg?&style=for-the-badge&logo=NuxtJS&logoColor=white" alt="About Me" />
 
-Software Engineer with proven abilities of developing an efficient, reliable, portable and maintainable software. Seeking for a position as a Software Engineer at Software companies to pace up the development of UIs with innovative ideas.
+Data Engineer with proven abilities of developing an efficient, reliable, portable and maintainable Data and ETL pipelines. Seeking for a position as a Data Engineer/ETL developer at Software companies to pace up the development of ETL's with innovative ideas.
 
 ## <img alt="Skills" src="https://img.shields.io/badge/ 📚 skills-black.svg?&style=for-the-badge&logo=Skills&logoColor=white" />
 
@@ -23,9 +23,7 @@ Software Engineer with proven abilities of developing an efficient, reliable, po
 
 ## <img src="https://img.shields.io/badge/💼 work experience-black.svg?&style=for-the-badge&logo=workexperience&logoColor=white" alt="Work Experience" />
 
-- Not worked with an organization yet but developed numerous softwares
-  for freelancing sites and clients and developed projects on web
-  technologies and desktop technlogies.
+- Working with national and multinational companies on various ETL and Business Intelligence solutions.
 
 ---
 
