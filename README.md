@@ -26,10 +26,12 @@ Data Engineer with proven abilities of developing an efficient, reliable, portab
 - Working with national and multinational companies on various ETL and Business Intelligence solutions.
 - Trainee at Dice Analytics(20/11/2020-25/2/2021):
 - Worked at Dice on ETL and BI tools with SQL and power BI
-- MTO(Business Intelligence) at Metro Shoes (25/09/2021-28/2/2022):
+- Junior Data engineer at Metro Shoes (25/09/2020-28/10/2021):
 - Worked on SSIS ETL tool and SSRS and SSAS and power BI on BI solution
-- Junior BI developer at MTBC-CARECLOUD (2/03/2022-currently Working):
-- Working on SSIS and Power BI for effective Pipelines for data transformation and extraction.
+-  BI developer at MTBC-CARECLOUD (2/11/2021-1/1/2023):
+- Worked on SSIS and Power BI for effective Pipelines for data transformation and extraction.
+- Senior Business Intelligence engineer at Hypernym Fz LLC
+- Working on variety of BI and data engineering tool for various clients like ABL , RTA Dubai , National Police Foundation and Abu Dhabi Government
 
 ---
 
